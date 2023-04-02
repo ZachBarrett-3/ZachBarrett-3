@@ -1,11 +1,11 @@
 ---
-title: Precalc
+title: Pre-calculus
 subtitle: Some topic
 image: assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: Precalc
+  title: Pre-calculus
   subtitle: Some topic
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
