@@ -11,9 +11,3 @@ caption:
 ---
 
 Here is the fun stuff :)
-
-{:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
-

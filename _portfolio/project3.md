@@ -10,9 +10,3 @@ caption:
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
 video link, description
-
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
-

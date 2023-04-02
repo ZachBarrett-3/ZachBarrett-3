@@ -10,9 +10,3 @@ caption:
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
 Calc 1 video here
-
-{:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
-
