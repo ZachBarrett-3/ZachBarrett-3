@@ -9,7 +9,7 @@ caption:
   subtitle: Integration between two functions
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Calc 2
+Calc 1 video here
 
 {:.list-inline}
 - Date: October 2019
