@@ -18,7 +18,6 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
     section: services
     list:
       - title: "E-Commerce"
