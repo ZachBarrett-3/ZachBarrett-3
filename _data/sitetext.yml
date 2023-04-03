@@ -27,7 +27,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "My Tutoring Background"
-    section: timeline
+    #section: timeline
     # left is the default
     #start_align: "left"
     events:
@@ -56,10 +56,9 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Me - make testimonials"
+    title: "About Me"
     body: "Hi I'm Zach and I'm passionate about Mathematics..."
     section: about
-
 
   portfolio:
     title: "Sample Lessons"
@@ -68,12 +67,12 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    #text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: some subtext to explain something
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Zach Barrett"
-        role: "Awesome Tutor"
+      - name: "Kay Garland"
+        role: "Lead Designer"
         image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
