@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     list:
       - title: "In-person Tutoring"
         desc: "better able to connect"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-chalkboard-person  #fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Online Tutoring"
         desc: "Flexible schedule..."
         icon: fas fa-laptop
