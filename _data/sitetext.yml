@@ -25,23 +25,6 @@ en: &DEFAULT_EN
         desc: "Flexible schedule..."
         icon: fas fa-laptop
 
-  team:
-    title: "About Me"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: maybe explain some of my interests outside of tutoring Math, my job, etc.
-    section: team
-    people:
-      - name: "Zach Barrett"
-        role: "Beast Tutor"
-        image: assets/img/team/3.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
   timeline:
     title: "My Tutoring Background"
     #section: timeline
@@ -58,6 +41,16 @@ en: &DEFAULT_EN
         desc: "South Dakota State university... held help sessions, lead activities, etc. "
         image: assets/img/timeline/2.jpg
         alt:
+      # - title: "Jekyll Theme is created"
+      #   year: "2019"
+      #   desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      #   image: assets/img/timeline/3.jpg
+      #   alt: image alt text
+      # - title: "Title"
+      #   year: "2009-2011"
+      #   desc: "Your description here, **Markdown** is fully supported."
+      #   image: assets/img/timeline/4.jpg
+      #   alt:
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
@@ -71,6 +64,23 @@ en: &DEFAULT_EN
     title: "Sample Lessons"
     section: portfolio
     closebutton: "Close Project"
+
+  team:
+    title: "About Me"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: maybe explain some of my interests outside of tutoring Math, my job, etc.
+    section: team
+    people:
+      - name: "Zach Barrett"
+        role: "Beast Tutor"
+        image: assets/img/team/3.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
 
   contact:
     title: "Contact"
