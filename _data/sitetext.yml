@@ -55,10 +55,10 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  testimonials:
+  about:
     title: "About Me - change to be testimonials"
     body: "Zach is such a great tutor!!"
-    section: testimonials
+    section: about
 
   portfolio:
     title: "Sample Lessons"

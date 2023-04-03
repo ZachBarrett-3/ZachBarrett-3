@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "Services"
       section: services
     - title: "Testimonials"
-      section: testimonials
+      section: about
     - title: "Timeline"
       section: timeline
     - title: "Portfolio"
