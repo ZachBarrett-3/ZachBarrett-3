@@ -68,12 +68,12 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    #text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: some subtext to explain something
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Zach Barrett"
+        role: "Awesome Tutor"
         image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
