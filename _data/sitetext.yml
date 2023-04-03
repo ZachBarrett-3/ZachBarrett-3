@@ -56,7 +56,7 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Me - change to be testimonials"
+    title: "Testimonials"
     body: "Zach is such a great tutor!!"
     section: about
 
