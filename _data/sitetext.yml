@@ -66,13 +66,13 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "About Me"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: maybe explain some of my interests outside of tutoring Math, my job, etc.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Zach Barrett"
+        role: "Beast Tutor"
         image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
