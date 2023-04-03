@@ -13,20 +13,18 @@ en: &DEFAULT_EN
   nav:
     - title: "Services"
       section: services
-    - title: "Testimonials"
-      section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Portfolio"
-      section: portfolio
     - title: "About"
       section: team
+    - title: "Background"
+      section: timeline
+    - title: "Testimonials"
+      section: about
+    - title: "Sample Lessons"
+      section: portfolio
     - title: "Contact"
       section: contact
 en-US:
   <<: *DEFAULT_EN
-
-
 en-CA:
   <<: *DEFAULT_EN
 en-GB:
