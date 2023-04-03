@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     list:
       - title: "In-person Tutoring"
         desc: "better able to connect"
-        icon: fas fa-chalkboard-person  #fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Online Tutoring"
         desc: "Flexible schedule..."
         icon: fas fa-laptop
@@ -34,13 +34,13 @@ en: &DEFAULT_EN
       - name: "Zach Barrett"
         role: "Beast Tutor"
         image: assets/img/team/3.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: https://twitter.com
+        #     icon: fab fa-twitter
+        #   - url: https://facebook.com
+        #     icon: fab fa-facebook-f
+        #   - url: https://linkedin.com
+        #     icon: fab fa-linkedin-in
 
   timeline:
     title: "My Tutoring Background"
