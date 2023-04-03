@@ -27,7 +27,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "My Tutoring Background"
-    #section: timeline
+    section: timeline
     # left is the default
     #start_align: "left"
     events:
