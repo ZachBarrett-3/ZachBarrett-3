@@ -56,8 +56,8 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Me"
-    body: "Hi I'm Zach and I'm passionate about Mathematics..."
+    title: "About Me - change to be testimonials"
+    body: "Zach is such a great tutor!!"
     section: about
 
   portfolio:
