@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome!!!!
-    text: Math Tutoring
+    title: Are you looking for a math tutor??
+    text: Welcome :)
 
   services:
     title: "Services"
