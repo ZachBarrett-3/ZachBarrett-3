@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome!!!!
-    text: Math Tutoring
+    title: Looking for some math tutoring?
+    text: You've come to the right place!
 
   services:
     title: "Services"
@@ -110,8 +110,11 @@ en: &DEFAULT_EN
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
-en-US:
-  <<: *DEFAULT_EN
+
+ en-US:
+   <<: *DEFAULT_EN
+
+
 en-CA:
   <<: *DEFAULT_EN
 en-GB:
