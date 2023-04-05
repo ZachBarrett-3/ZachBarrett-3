@@ -41,7 +41,7 @@ en: &DEFAULT_EN
     people:
       - name: "Zach Barrett"
         #role: "Beast Tutor"
-        image: assets/img/team/3.jpg
+        image: assets/img/team/picofme.jpg
         #social:
         #  - url: https://twitter.com
         #    icon: fab fa-twitter
