@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Are you looking for a math tutor??
     text: Welcome :)
-    button: <button onclick="window.location.href='https://w3docs.com';"> Fill out the Tutor Interest Form </button>
-    #buttonlink: <button onclick="window.location.href='https://w3docs.com';"> </button>
+    button: Fill out the Tutor Interest Form
+    buttonlink: https://w3docs.com
 
   services:
     title: "Services"
