@@ -13,6 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Are you looking for a math tutor??
     text: Welcome :)
+    button: Tell Me More
+    buttonlink: "#services"
 
   services:
     title: "Services"
