@@ -36,7 +36,7 @@ en: &DEFAULT_EN
     myself to teach in the future. With a Master's Degree, you have the option of getting a teaching certificate, without the need to 
     go through student teaching, or education-based college curriculum. Both of my parents started their careers as teachers, and I've 
     personally seen the incredible impact educators can have on lives. Not just in an academic sense, but on a personal level too."
-    subtext: <button onclick="window.location.href='https://w3docs.com';"> Click Here </button>
+    #subtext: <button onclick="window.location.href='https://w3docs.com';"> Click Here </button>
     section: team
     people:
       - name: "Zach Barrett"
