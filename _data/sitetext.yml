@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Are you looking for a math tutor??
     text: Welcome :)
     button: Fill out the Tutor Interest Form 
-    buttonlink: "#services"
+    buttonlink: <button onclick="window.location.href='https://w3docs.com';"> </button>
 
   services:
     title: "Services"
