@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Are you looking for a math tutor??
     text: Welcome :)
-    button: Tell Me More
+    button: Fill out the Tutor Interest Form
     buttonlink: "#services"
 
   services:
@@ -29,7 +29,7 @@ en: &DEFAULT_EN
 
   team:
     title: "About Me"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "I graduated with my Master's Degree in Mathematics-Statistics from South Dakota State University in spring of 2023, and moved out to Denver to start a job as a Healthcare Data Analyst. While in college I was heavily involved in music... I played snare drum in the marching band, and was a member of the concert band and percussion ensemble. Some of my hobbies are running, going on hikes, and reading. One of the driving reasons for getting my Master's degree was to leave the door open for myself to teach later in life. Both of my parents started their careers as teachers, and I"
     subtext: maybe explain some of my interests outside of tutoring Math, my job, etc.
     section: team
     people:
