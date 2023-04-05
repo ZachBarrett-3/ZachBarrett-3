@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Are you looking for a math tutor??
     text: Welcome :)
     button: Fill out the Tutor Interest Form
-    buttonlink: https://w3docs.com
+    buttonlink: https://forms.gle/9hvsmS53nF9U1YVe8
 
   services:
     title: "Services"
