@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Are you looking for a math tutor??
     text: Welcome :)
-    button: Fill out the Tutor Interest Form
+    button: Fill out the Tutor Interest Form 
     buttonlink: "#services"
 
   services:
@@ -36,12 +36,12 @@ en: &DEFAULT_EN
     myself to teach in the future. With a Master's Degree, you have the option of getting a teaching certificate, without the need to 
     go through student teaching, or education-based college curriculum. Both of my parents started their careers as teachers, and I've 
     personally seen the incredible impact educators can have on lives. Not just in an academic sense, but on a personal level too."
-    subtext: maybe explain some of my interests outside of tutoring Math, my job, etc.
+    subtext: <button onclick="window.location.href='https://w3docs.com';"> Click Here </button>
     section: team
     people:
       - name: "Zach Barrett"
         #role: "Beast Tutor"
-        #image: assets/img/team/3.jpg
+        image: assets/img/team/3.jpg
         #social:
         #  - url: https://twitter.com
         #    icon: fab fa-twitter
