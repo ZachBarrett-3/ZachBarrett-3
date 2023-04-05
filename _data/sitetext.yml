@@ -35,20 +35,20 @@ en: &DEFAULT_EN
     running, going on hikes, and reading. One of the driving reasons for getting my Master's degree was to leave the door open for 
     myself to teach in the future. With a Master's Degree, you have the option of getting a teaching certificate, without the need to 
     go through student teaching, or education-based college curriculum. Both of my parents started their careers as teachers, and I've 
-    personally seen the incredible impact educators can have on lives. Not just in an academic sense, but on a personal level too. "
+    personally seen the incredible impact educators can have on lives. Not just in an academic sense, but on a personal level too."
     subtext: maybe explain some of my interests outside of tutoring Math, my job, etc.
     section: team
     people:
       - name: "Zach Barrett"
-        role: "Beast Tutor"
-        image: assets/img/team/3.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+        #role: "Beast Tutor"
+        #image: assets/img/team/3.jpg
+        #social:
+        #  - url: https://twitter.com
+        #    icon: fab fa-twitter
+        #  - url: https://facebook.com
+        #    icon: fab fa-facebook-f
+        #  - url: https://linkedin.com
+        #    icon: fab fa-linkedin-in
 
   timeline:
     title: "My Tutoring Background"
